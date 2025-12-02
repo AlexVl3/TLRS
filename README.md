@@ -21,3 +21,5 @@ TLRS is a lightweight symbolic memory system that indexes long-term agent memory
 | Explainability          | Low        | Medium | High     |
 
 MIT licensed · Works with LangGraph, CrewAI, Ollama, or any LLM today.
+
+For enterprise licensing,custom integrations, or investment contact: Alex.gr.aek@gmail.com

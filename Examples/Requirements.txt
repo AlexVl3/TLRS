@@ -1,0 +1,2 @@
+# No external dependencies for core
+# Optional for advanced fallback: sentence-transformers qdrant-client
